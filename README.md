@@ -1,2 +1,4 @@
 # html-css
- html/css/js by "Curso-em-Vídeo"
+ html/css estudos
+
+ Aprendendo a criar sites e agora vou gerenciar meus repositórios!
